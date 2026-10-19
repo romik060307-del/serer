@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy">#07152E</color>
+    <color name="blue">#4D9BFF</color>
+    <color name="glass_white">#30FFFFFF</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_muted">#B9D1EA</color>
+</resources>
